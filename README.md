@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Typescript**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **any project that is ok to have jrs**
 
 - 🤝 I’m looking for help with **typescript**
 
