@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tiago Nunes</h1>
-<h3 align="center">A psychologist and ex saylor fullstack developer in progress</h3>
+<h1 align="center">Hello world 👋, I'm Tiago Nunes</h1>
+<h3 align="center">A psychologist and ex saylor, now, fullstack developer in progress</h3>
 
 - 🔭 I’m currently working on [learning typescript](https://github.com/nunestiago/CursoOtavioMiranda/tree/master/react/consumoapi)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ntiagon/](https://www.linkedin.com/in/ntiagon/)
 
-- ⚡ Fun fact **I make my own beer and grow my own mushrooms**
+- ⚡ Fun fact **I make my own :beer:beer and grow my own :mushroom:mushrooms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
