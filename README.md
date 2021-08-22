@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Tiago Nunes</h1>
-<h3 align="center">A psychologist and ex saylor, now, fullstack developer available for jobs</h3>
+<h3 align="center">A psychologist and cruise ship crew, now, fullstack developer available for jobs</h3>
 
 - 🔭 I’m currently working on [learning typescript](https://github.com/nunestiago/CursoOtavioMiranda/tree/master/react/consumoapi)
 
