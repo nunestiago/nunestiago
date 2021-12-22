@@ -1,11 +1,11 @@
 <h1 align="center">Hello world 👋, I'm Tiago Nunes</h1>
-<h3 align="center">Fullstack developer available for jobs, previously psychologist and cruise ship crew. </h3>
+<h3 align="center">Fullstack developer, previously psychologist and cruise ship crew. </h3>
 
-- 🔭 I’m currently working on [freelancing Web Page with NextJS](https://github.com/nunestiago/oceanauta)
+- 🔭 I’m currently working on [Ford Motor Company](https://www.linkedin.com/company/ford-motor-company/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Angular** and **Spring**
 
-- 👯 I’m looking to collaborate on **any project that welcomes JR**
+- 👯 I’m looking to collaborate on **404**
 
 - 🤝 I’m looking for help with **typescript**
 
