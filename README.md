@@ -1,5 +1,4 @@
 <h1 align="center">Tiago Nunes</h1>
-<h3 align="center">Fullstack developer, previously psychologist and cruise ship crew. </h3>
 
 - 🔭 I’m currently working on [Ford Motor Company](https://www.linkedin.com/company/ford-motor-company/)
 
