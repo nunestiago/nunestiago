@@ -1,15 +1,7 @@
-<h1 align="center">Hello world 👋, I'm Tiago Nunes</h1>
+<h1 align="center">Tiago Nunes</h1>
 <h3 align="center">Fullstack developer, previously psychologist and cruise ship crew. </h3>
 
 - 🔭 I’m currently working on [Ford Motor Company](https://www.linkedin.com/company/ford-motor-company/)
-
-- 🌱 I’m currently learning **Angular** and **Spring**
-
-- 👯 I’m looking to collaborate on **404**
-
-- 🤝 I’m looking for help with **typescript**
-
-- 📫 How to reach me **ntiagon@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ntiagon/](https://www.linkedin.com/in/ntiagon/)
 
